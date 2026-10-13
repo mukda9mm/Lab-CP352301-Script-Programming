@@ -30,8 +30,16 @@ data-processor/
 │   ├── output_filtered_sales.csv       # ไฟล์ที่ได้หลังรัน
 │   └── output_updated_inventory.json   # ไฟล์ที่ได้หลังรัน
 ├── screenshots/
+│   ├── output_filtered_sales.png
+│   └── output_updated_inventory.png
 ├── main.py
 └── README.md
 ```
 
+## ผลลัพธ์
 
+### output_filtered_sales.csv
+![output_filtered_sales.csv](screenshots/output_filtered_sales.png)
+
+### output_updated_inventory.json
+![output_updated_inventory.json](screenshots/output_updated_inventory.png)
