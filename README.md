@@ -38,6 +38,7 @@
 | งาน | โฟลเดอร์ |
 | --- | --- |
 | Class Activity 1 – Building a Simple CLI Application (Task Manager) | [Activity1_CLI-Task-Manager](Class-Activity/Activity1_CLI-Task-Manager/my-task-manager) |
+| Class Activity 2 – Object-Oriented Programming (OOP Task Manager) | [Activity2_OOP-Task-Manager](Class-Activity/Activity2_OOP-Task-Manager/my-oop-task-manager) |
 
 ## Projects
 | งาน | รายละเอียด |
