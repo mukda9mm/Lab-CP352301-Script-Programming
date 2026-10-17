@@ -4,6 +4,18 @@
 
 รวมงานทั้งหมดของรายวิชา Script Programming
 
+## Lab ประจำสัปดาห์
+| Week | หัวข้อ |
+| --- | --- |
+| [Week 1](Lab/Week1) | Introduction to Python & Basic Syntax |
+| [Week 2](Lab/Week2) | Control Flow: Conditionals |
+| [Week 3](Lab/Week3) | Control Flow: Loops |
+| [Week 4](Lab/Week4) | Data Structures: Lists & Tuples |
+| [Week 5](Lab/Week5) | Data Structures: Dictionaries & Sets |
+| [Week 6](Lab/Week6) | Functions & Modules |
+
+ต้นฉบับ Week 1–3: https://github.com/mukda9mm/673380598-1_sec2_script_programming
+
 ## LabX Basic
 | งาน | โฟลเดอร์ |
 | --- | --- |
