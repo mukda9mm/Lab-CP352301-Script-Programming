@@ -13,6 +13,7 @@
 | [Week 4](Lab/Week4) | Data Structures: Lists & Tuples |
 | [Week 5](Lab/Week5) | Data Structures: Dictionaries & Sets |
 | [Week 6](Lab/Week6) | Functions & Modules |
+| [Week 12](Lab/Week12/final-task-manager) | Final Project Development: Enhanced Task Manager |
 
 ต้นฉบับ Week 1–3: https://github.com/mukda9mm/673380598-1_sec2_script_programming
 
@@ -47,3 +48,12 @@
 | --- | --- |
 | Mini Project – ระบบแจ้งเตือนเครื่องซักผ้าร้านหยอดเหรียญ | [Mini-Project](Mini-Project) → https://github.com/preemphatp/Mini_Project |
 | Final Project – Virtual Pet Companion | [Final-Project](Final-Project) → https://github.com/144P75/script_project |
+
+## Personal Reflection
+[Personal_Reflection.md](Personal_Reflection.md) สรุปสิ่งที่ได้เรียนรู้ การสะท้อนคิด และความคิดเห็นต่อรายวิชา
+
+## Certificates
+| ใบรับรอง | ไฟล์ |
+| --- | --- |
+| Cisco NetAcad: Python Essentials 1 | [Python_Essentials_1_certificate.pdf](Certificates/Python_Essentials_1_certificate.pdf) |
+| Cisco NetAcad: Python Essentials 2 | [Python_Essentials_2_certificate.pdf](Certificates/Python_Essentials_2_certificate.pdf) |
