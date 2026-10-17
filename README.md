@@ -40,6 +40,7 @@
 | Class Activity 1 – Building a Simple CLI Application (Task Manager) | [Activity1_CLI-Task-Manager](Class-Activity/Activity1_CLI-Task-Manager/my-task-manager) |
 | Class Activity 2 – Object-Oriented Programming (OOP Task Manager) | [Activity2_OOP-Task-Manager](Class-Activity/Activity2_OOP-Task-Manager/my-oop-task-manager) |
 | Class Activity 3 – Interacting with Web APIs (Fetching JSON Data) | [Activity3_Web-API-Fetcher](Class-Activity/Activity3_Web-API-Fetcher/my-api-fetcher) |
+| Class Activity 4 – Project Planning & Design (Enhanced Task Manager) | [Activity4_Enhanced-Task-Manager](Class-Activity/Activity4_Enhanced-Task-Manager/enhanced-task-manager-design) |
 
 ## Projects
 | งาน | รายละเอียด |
