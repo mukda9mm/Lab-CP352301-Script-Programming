@@ -35,7 +35,9 @@
 | Week12 LabX ADV – Agentic Communication Workflows (Advanced Email & SMS) | [ADV5_Week12_Agentic-Communication](LabX-Advance/ADV5_Week12_Agentic-Communication/agentic-comm-automator) |
 
 ## Class Activity
-ยังไม่มีงาน
+| งาน | โฟลเดอร์ |
+| --- | --- |
+| Class Activity 1 – Building a Simple CLI Application (Task Manager) | [Activity1_CLI-Task-Manager](Class-Activity/Activity1_CLI-Task-Manager/my-task-manager) |
 
 ## Projects
 | งาน | รายละเอียด |
