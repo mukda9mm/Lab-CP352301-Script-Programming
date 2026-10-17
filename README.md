@@ -2,6 +2,8 @@
 
 มุกดา บุญประจันทร์ 673380598-1
 
+รวมงานทั้งหมดของรายวิชา Script Programming
+
 ## LabX Basic
 | งาน | โฟลเดอร์ |
 | --- | --- |
@@ -20,3 +22,9 @@
 
 ## Class Activity
 ยังไม่มีงาน
+
+## Projects
+| งาน | รายละเอียด |
+| --- | --- |
+| Mini Project – ระบบแจ้งเตือนเครื่องซักผ้าร้านหยอดเหรียญ | [Mini-Project](Mini-Project) → https://github.com/preemphatp/Mini_Project |
+| Final Project – Virtual Pet Companion | [Final-Project](Final-Project) → https://github.com/144P75/script_project |
