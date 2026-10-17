@@ -32,6 +32,7 @@
 | Week8 LabX ADV – Agentic Data Processing (Advanced CSV & JSON Workflows) | [ADV2_Week08_Agentic-Data-Processing](LabX-Advance/ADV2_Week08_Agentic-Data-Processing/agentic-data-processor) |
 | Week10 LabX ADV – Advanced Spreadsheet Automation & Agentic Workflows | [ADV3_Week10_Spreadsheet-Automation](LabX-Advance/ADV3_Week10_Spreadsheet-Automation/advanced-spreadsheet-automator) |
 | Week11 LabX ADV – Project Planning & Design (Agentic Document Automation) | [ADV4_Week11_Document-Automation](LabX-Advance/ADV4_Week11_Document-Automation/agentic-document-automator) |
+| Week12 LabX ADV – Agentic Communication Workflows (Advanced Email & SMS) | [ADV5_Week12_Agentic-Communication](LabX-Advance/ADV5_Week12_Agentic-Communication/agentic-comm-automator) |
 
 ## Class Activity
 ยังไม่มีงาน
